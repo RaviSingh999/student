@@ -10,4 +10,4 @@ public class SpringBootWebApplication {
         SpringApplication.run(SpringBootWebApplication.class, args);
     }
 
-}
+}// sample comment
